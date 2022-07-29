@@ -1,0 +1,11 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a.active {
+    color: hsl(258deg, 100%, 50%);
+    background-color: #e6e6ff;
+    border-radius: 40px;
+}  
